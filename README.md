@@ -51,7 +51,7 @@
 
 
 <div align="left">
-  <a href=""https://www.gmail.com/leogct02@gmail.com" target="_blank">
+  <a href="https://www.gmail.com/leogct02@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="135" height="35" alt="gmail logo"  />
   </a>
   <a href="https://wa.me/+543517888504" target="_blank">
