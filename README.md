@@ -1,4 +1,5 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="150"/>
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 </p>
 <h4 align="left">👋 Hi there! <br> I’m Leonardo Gabriel Cuellar Tejerina <br> Systems Engineering Student | Programming Enthusiast <br> from Bolivia</h4>
