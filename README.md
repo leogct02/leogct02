@@ -109,6 +109,8 @@
 
 <br clear="both">
 <img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat">
-
 <br>
 
+### Spotify Playing 🎧
+
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31lr7om7mtfeaghhl7irxe4iqrfq&count=3)](https://open.spotify.com/user/31lr7om7mtfeaghhl7irxe4iqrfq)
