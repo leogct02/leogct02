@@ -107,6 +107,9 @@
 ###
 
 <br clear="both">
+<img src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif" title="CatCat" alt="CatCat">
+
+<br>
 
 
 ### Spotify Playing 🎧
