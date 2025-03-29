@@ -1,5 +1,7 @@
 <h4 align="left">👋 Hi there! <br> I’m Leonardo Gabriel Cuellar Tejerina <br> Systems Engineering Student | Programming Enthusiast <br> from Bolivia</h4>
-
+ <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+ 
+<br><br>
 ###
 
 <div align="center">
@@ -9,11 +11,14 @@
 
 ###
 
+###
 <br clear="both">
 
-<img align="right" height="150" src="https://drive.google.com/file/d/1HxVUyPZn63hhTn2iat9ZOBx-906rRS9D/view?usp=drive_link"  />
-
 ###
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="45" alt="cplusplus logo"  />
@@ -39,8 +44,11 @@
 
 ###
 
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+
 <div align="left">
-  <a href="leogct02@gmail.com" target="_blank">
+  <a href=""mailto:leogct02@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="135" height="35" alt="gmail logo"  />
   </a>
   <a href="https://wa.me/+543517888504" target="_blank">
