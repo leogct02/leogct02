@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
 <h4 align="left">👋 Hi there! <br> I’m Leonardo Gabriel Cuellar Tejerina <br> Systems Engineering Student | Programming Enthusiast <br> from Bolivia</h4>
  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
  
@@ -48,7 +51,7 @@
 
 
 <div align="left">
-  <a href=""mailto:leogct02@gmail.com" target="_blank">
+  <a href=""https://www.gmail.com/leogct02@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="135" height="35" alt="gmail logo"  />
   </a>
   <a href="https://wa.me/+543517888504" target="_blank">
@@ -77,10 +80,9 @@
 
 <br clear="both">
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31lr7om7mtfeaghhl7irxe4iqrfq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lr7om7mtfeaghhl7irxe4iqrfq&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
-###
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31lr7om7mtfeaghhl7irxe4iqrfq)
+
+
