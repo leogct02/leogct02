@@ -60,10 +60,12 @@
   <a href="https://www.instagram.com/leosilentium/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="135" height="35" alt="instagram logo"  />
   </a>
-  <a href="j.g.6943" target="_blank">
+  <a href="https://discord.gg/7yvQxKrfFA" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="135" height="35" alt="discord logo"  />
   </a>
+  <a href="https://www.linkedin.com/in/leonardo-gabriel-cuellar-tejerina-758662271/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="135" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
